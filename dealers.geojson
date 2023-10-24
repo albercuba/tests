@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49702,
+          9.76879
+        ]
+      },
+      "properties": {
+		"dealerName": "Trek Bicycle Bad Mergentheim",
+		"address": "Herrenwiesenstrasse 34",
+		"city": "Bad Mergentheim",
+		"postalCode": "97980",
+		"phone":"+4979319534992",
+		"url":"https://www.trekbikes.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99238,
+          7.85397
+        ]
+      },
+      "properties": {
+		"dealerName": "FahrRADikal GmbH & CO. KG",
+		"address": "Greiffeneggring 1",
+		"city": "Freiburg",
+		"postalCode": "79098",
+		"phone":"+497617660781",
+		"url":"https://www.rad-ikal.com/"		
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.57170,
+          7.81573
+        ]
+      },
+      "properties": {
+		"dealerName": "SAGO Bike-Sport GmbH",
+		"address": "Hauptstrasse 107",
+		"city": "Kehl",
+		"postalCode": "77694",
+		"phone":"+4978516367035",
+		"url":"https://www.sago-bikes.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.61622,
+          7.66078
+        ]
+      },
+      "properties": {
+		"dealerName": "Die Speiche",
+		"address": "Tumringerstr. 224",
+		"city": "Lörrach",
+		"postalCode": "79539",
+		"phone":"+490762144681",
+		"url":"https://www.speiche.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.09721,
+          14.33487
+        ]
+      },
+      "properties": {
+		"dealerName": "Little john Bikes Neukirch",
+		"address": "Oststrasse 29",
+		"city": "Neukirch",
+		"postalCode": "01904",
+		"phone":"+493595134333",
+		"url":"http://https//littlejohnbikes.de/filialen/neukirch-lausitz/"
+      }
+    }
+  ]
+}
