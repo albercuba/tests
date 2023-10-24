@@ -3,7 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "phoneFormatted": "(202) 234-7336",
+        "phone": "2022347336",
+        "address": "1471 P St NW",
+        "city": "Washington DC",
+        "country": "United States",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "20005",
+        "state": "D.C."
+      },
       "geometry": {
         "coordinates": [
           9.768763571002381,
